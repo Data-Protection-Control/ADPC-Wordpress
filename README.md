@@ -1,4 +1,4 @@
-![ADPC](adpc-wp/assets/adpc_logo_high.png)
+<img src="assets/adpc_logo_high.png" alt="ADPC" width="50%">
 
 # ADPC-WP
 
