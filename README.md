@@ -1,7 +1,5 @@
 <img src="assets/adpc_logo_high.png" alt="ADPC" width="50%">
 
-# ADPC-WP
-
 A WordPress plugin that implements the [Advanced Data Protection Control (ADPC)](https://www.dataprotectioncontrol.org/spec/) protocol.
 
 - Serves a `/consent-requests.json` resource listing the purposes your site requests consent for
