@@ -127,4 +127,4 @@ The table is left intact on deactivation and must be removed manually if no long
 [https://www.dataprotectioncontrol.org/spec/](https://www.dataprotectioncontrol.org/spec/)
 
 ## Also see
-[https://github.com/Data-Protection-Control/ADPC-Wordpress](https://github.com/Data-Protection-Control/ADPC-Wordpress)
+[https://github.com/Data-Protection-Control/ADPC](https://github.com/Data-Protection-Control/ADPC)
