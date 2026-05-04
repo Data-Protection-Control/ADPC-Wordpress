@@ -5,6 +5,8 @@
  * Version:     1.0.0
  * Author:      ADPC
  * Spec:        https://www.dataprotectioncontrol.org/spec/
+ * More info:   https://www.dataprotectioncontrol.org/
+ * Github:      https://github.com/Data-Protection-Control/ADPC
  */
 
 defined( 'ABSPATH' ) || exit;
